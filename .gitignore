@@ -1,0 +1,14 @@
+/src/public/hot
+/src/public/storage
+.env
+.env.backup
+.phpunit.result.cache
+/src/.phpunit.cache
+.DS_Store
+/.DS_Store
+/.fleet
+/.idea
+/.vscode
+.idea
+.phpstorm.meta.php
+_ide_helper.php

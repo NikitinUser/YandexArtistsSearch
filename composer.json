@@ -1,0 +1,17 @@
+{
+    "name": "nikitinuser/yandex-artists-search",
+    "autoload": {
+        "psr-4": {
+            "Nikitinuser\\YandexArtistsSearch\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vladimir Nikitin",
+            "email": "jo.kent@mail.ru"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    }
+}

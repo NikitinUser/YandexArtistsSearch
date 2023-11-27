@@ -6,7 +6,7 @@
     Получить информацию по артисту
 
 ## Установка
-composer install
+composer require nikitinuser/yandex-artists-search
 
 ## Использование
 ```
